@@ -1,6 +1,3 @@
-// Stage 1 ECMAScript allowed pipline method "|>"
-// Using reducers and pipe() function 
-
 // Upgrade 1 on functions: defining meaningfull names for variables and arguments changing from "s" to response for example;
 function parseEntity(response) {
   var jsonData = JSON.parse(response);
